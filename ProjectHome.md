@@ -1,0 +1,1 @@
+ROMs CyanogenMod 9 y 10 (Android 4.0.4 y 4.1.2 compatibles) compatibles con Woxter PC65CXi y PC85CXi
